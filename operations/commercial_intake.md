@@ -15,6 +15,7 @@ Last updated: 2026-05-06
 
 - Trebsijg availability: 40 hours/week, available ASAP.
 - Osama availability: 40 hours/week, available ASAP.
+- Coen availability: 20 hours/week, available ASAP.
 - Work mode: remote only by default; hybrid is acceptable in Munich/Bavaria.
 
 ## Rates And Packages

@@ -19,3 +19,5 @@ exports/
 *.db
 dist/browser-profile/
 deliverables/**/dist/browser-profile/
+node_modules/
+deliverables/**/node_modules/

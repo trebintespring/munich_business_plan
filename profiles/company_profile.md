@@ -22,7 +22,7 @@ Rates start at EUR 120-140/hour for normal specialist work and EUR 150-180/hour 
 
 Fixed-price packages are available after scope review. A minimum paid diagnostic is 4 hours; standard analysis packages are typically 40 hours; prototype packages often start around 160 hours and vary by complexity, PCB stackup, component count, risk, and documentation depth.
 
-Availability: Trebsijg and Osama are each available up to 40 hours/week ASAP. Remote is preferred; hybrid work is possible in Munich/Bavaria. Working language: English.
+Availability: Trebsijg and Osama are each available up to 40 hours/week ASAP. Coen is available up to 20 hours/week ASAP. Remote is preferred; hybrid work is possible in Munich/Bavaria. Working language: English.
 
 ## Proof Points To Use
 

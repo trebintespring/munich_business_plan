@@ -1,3 +1,24 @@
+## 2026-05-21 — Add English Slidev Bertrandt Comparison Deck
+
+**Objective:** Add an English Slidev version of the Bertrandt partner profile deck, including Osama and Coen portraits, Coen's 20 h/week profile, and an exported comparison PDF.
+
+**Changes:**
+- `deliverables/bertrandt_partner_slidev/slides.md` — created: added an English Slidev deck with Coilworks positioning, InteSpring proof points, Trebsijg, Osama Shah, Coen Greidanus, engagement model, and 100 h/week combined availability.
+- `deliverables/bertrandt_partner_slidev/style.css` — created: added custom Slidev styling for cards, portraits, proof-point visuals, tags, metrics, and dark profile slides.
+- `deliverables/bertrandt_partner_slidev/package.json` — created: added Slidev preview/export scripts and dependencies.
+- `deliverables/bertrandt_partner_slidev/package-lock.json` — created: locked Slidev dependency versions used for export.
+- `deliverables/bertrandt_partner_slidev/README.md` — created: documented preview and export commands for the Slidev deck.
+- `deliverables/bertrandt_partner_slidev/asset_sources.md` — created: documented public InteSpring source URLs for reused proof-point images and team portraits.
+- `deliverables/bertrandt_partner_slidev/public/assets/` — created: added local Slidev asset copies, including Osama Shah and Coen Greidanus portraits from the public InteSpring about page.
+- `deliverables/bertrandt_partner_slidev/dist/coilworks_bertrandt_partner_profile_slidev.pdf` — created: exported the English Slidev comparison deck to PDF.
+- `profiles/Profile.pdf` — added: included the uploaded Coen profile PDF used as source material.
+- `profiles/coen_profile.md` — created: added a Coen Greidanus profile grounded in the uploaded PDF and public InteSpring team information.
+- `README.md` — workspace overview: added Coen's 20 h/week availability and profile link.
+- `operations/commercial_intake.md` — availability: added Coen's 20 h/week availability.
+- `profiles/company_profile.md` — company availability: added Coen's 20 h/week availability.
+- `strategy/00_fastest_path.md` — availability: added Coen's 20 h/week availability.
+- `.gitignore` — dependency hygiene: ignored Node dependency folders created by Slidev.
+
 ## 2026-05-21 — Build Bertrandt Partner Profile Deck
 
 **Objective:** Create a German HTML-to-PDF partner profile package for the Bertrandt application using Coilworks GmbH positioning and public InteSpring Control Systems visuals.

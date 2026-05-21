@@ -49,6 +49,7 @@ That story is stronger than competing on commodity software marketplaces.
 
 - Trebsijg: 40 hours/week, ASAP.
 - Osama: 40 hours/week, ASAP.
+- Coen: 20 hours/week, ASAP.
 - Work mode: remote by default; hybrid possible in Munich/Bavaria.
 - Working language: English.
 - Use Coilworks GmbH as the commercial contracting entity. Individual platform profiles are acceptable for visibility, but proposals should make clear that contracting goes through Coilworks GmbH where possible.

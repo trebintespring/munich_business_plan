@@ -1,0 +1,15 @@
+{
+  "name": "coilworks-bertrandt-partner-slidev",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --host 127.0.0.1 slides.md",
+    "export": "slidev export slides.md --output dist/coilworks_bertrandt_partner_profile_slidev.pdf"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.49.29",
+    "@slidev/theme-default": "^0.25.0",
+    "playwright-chromium": "^1.44.0"
+  }
+}

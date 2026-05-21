@@ -6,12 +6,12 @@ This workspace is the operating system for getting paid engineering and consulti
 
 Win work at EUR 100/hour minimum, EUR 120-140/hour target for normal work, and up to EUR 180/hour for specialist work in medical-device compliance documentation, system architecture, human-interactive mechanical systems, RF/drone/control systems, PCB design, power electronics, and test automation.
 
-Current operating constraints: both Trebsijg and Osama are available 40 hours/week ASAP; default work mode is remote, with hybrid possible in Munich/Bavaria. All commercial work should contract through Coilworks GmbH, even when individual freelancer profiles are used for platform visibility. See [operations/commercial_intake.md](operations/commercial_intake.md).
+Current operating constraints: Trebsijg and Osama are available 40 hours/week ASAP, and Coen is available 20 hours/week ASAP; default work mode is remote, with hybrid possible in Munich/Bavaria. All commercial work should contract through Coilworks GmbH, even when individual freelancer profiles are used for platform visibility. See [operations/commercial_intake.md](operations/commercial_intake.md).
 
 ## Where To Start
 
 1. Read [strategy/00_fastest_path.md](strategy/00_fastest_path.md).
-2. Create or update profiles using [profiles/company_profile.md](profiles/company_profile.md), [profiles/trebsijg_profile.md](profiles/trebsijg_profile.md), and [profiles/osama_profile.md](profiles/osama_profile.md).
+2. Create or update profiles using [profiles/company_profile.md](profiles/company_profile.md), [profiles/trebsijg_profile.md](profiles/trebsijg_profile.md), [profiles/osama_profile.md](profiles/osama_profile.md), and [profiles/coen_profile.md](profiles/coen_profile.md).
 3. Register on the first-priority platforms in [strategy/01_platforms_priority.md](strategy/01_platforms_priority.md).
 4. Track every profile, lead, application, and result in [operations/pipeline_tracker.csv](operations/pipeline_tracker.csv) and [operations/platform_tracker.csv](operations/platform_tracker.csv).
 5. Use [operations/search_queries.md](operations/search_queries.md) for daily searches and alerts.
