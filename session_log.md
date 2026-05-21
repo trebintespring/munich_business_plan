@@ -1,3 +1,12 @@
+## 2026-05-21 — Generate Bertrandt Prompt Images
+
+**Objective:** Generate the Bertrandt deck prompt images in parallel through the OpenAI API and store them for both deck formats.
+
+**Changes:**
+- `operations/generate_bertrandt_prompt_images.ps1` — created: added a reusable PowerShell generator that reads the sibling API reference, starts five parallel OpenAI image jobs, saves PNGs, and mirrors them into Slidev assets.
+- `deliverables/bertrandt_partner_deck/assets/` — generated assets: added five 1536x1024 PNG prompt images for manufacturing, prototype-to-series, quality control, integrated controls, and the specialist engineering cell.
+- `deliverables/bertrandt_partner_slidev/public/assets/` — generated assets: mirrored the same five PNG prompt images for Slidev use.
+
 ## 2026-05-21 — Refine Bertrandt Deck Production Positioning
 
 **Objective:** Update both Bertrandt deck versions with production-partner positioning, consistent visual treatment, image prompts, regenerated PDFs, and aligned business-development copy.
