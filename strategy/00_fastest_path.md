@@ -2,9 +2,9 @@
 
 ## Positioning
 
-Do not lead as generic freelancers. Lead as a two-person specialist engineering cell contracting through Coilworks GmbH and backed by InteSpring credibility:
+Do not lead as generic freelancers. Lead as a three-person specialist engineering cell contracting through Coilworks GmbH and backed by InteSpring credibility:
 
-**Human-interactive hardware, medical-device documentation, motion control, RF/drone systems, PCB/power electronics, and AI-accelerated engineering documentation.**
+**Human-interactive hardware, medical-device documentation, motion control, RF/drone systems, PCB/power electronics, mechatronic R&D, production-partner coordination, and AI-accelerated engineering documentation.**
 
 That story is stronger than competing on commodity software marketplaces.
 
@@ -44,6 +44,11 @@ That story is stronger than competing on commodity software marketplaces.
    - Buyer: medical-device, lifting-aid, wearable, exoskeleton, logistics, defense companies.
    - Deliverables: feasibility study, rapid prototype plan, kinematic analysis, supplier pathway.
    - Rate: EUR 130-180/hour.
+
+6. **Prototype-To-Series Production Path**
+   - Buyer: hardware startups, medical/industrial SMEs, engineering managers preparing pilots or small series.
+   - Deliverables: EU-only manufacturing and sourcing path where needed, prototype sourcing, assembly coordination, quality-control loop, supplier-ready documentation, and broader lower-cost sourcing options when acceptable.
+   - Rate: EUR 120-160/hour or fixed-scope coordination package.
 
 ## Availability And Contracting
 

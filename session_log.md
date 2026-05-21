@@ -1,3 +1,23 @@
+## 2026-05-21 — Refine Bertrandt Deck Production Positioning
+
+**Objective:** Update both Bertrandt deck versions with production-partner positioning, consistent visual treatment, image prompts, regenerated PDFs, and aligned business-development copy.
+
+**Changes:**
+- `deliverables/bertrandt_partner_deck/index.html` — deck sections: updated capacity to 100 h/week, added production/sourcing/quality/assembly positioning, added Osama and Coen portrait profile slides, and added a production pathway slide.
+- `deliverables/bertrandt_partner_deck/styles.css` — visual system: aligned palette, font stack, light profile treatment, compact card layout, and production-path sizing.
+- `deliverables/bertrandt_partner_deck/assets/` — assets: added Osama Shah and Coen Greidanus portrait copies for the HTML deck.
+- `deliverables/bertrandt_partner_deck/asset_sources.md` — asset provenance: documented public InteSpring team portrait source URLs.
+- `deliverables/bertrandt_partner_deck/bertrandt_message.md` — portal message: added manufacturing, sourcing, assembly, quality-control capability and Coen availability.
+- `deliverables/bertrandt_partner_deck/dist/coilworks_bertrandt_partner_profile.pdf` — export: regenerated the HTML deck PDF.
+- `deliverables/bertrandt_partner_slidev/slides.md` — Slidev deck: added production partner content, prototype-to-series slide, consistent Osama profile styling, and manufacturing-path closing language.
+- `deliverables/bertrandt_partner_slidev/style.css` — visual system: matched the HTML deck palette/font treatment and removed the dark profile slide style.
+- `deliverables/bertrandt_partner_slidev/dist/coilworks_bertrandt_partner_profile_slidev.pdf` — export: regenerated the Slidev comparison PDF.
+- `deliverables/bertrandt_partner_image_prompts.md` — created: added future image prompts for manufacturing, sourcing, quality control, control systems, and team visuals.
+- `profiles/company_profile.md` — company positioning: added prototype-to-series, EU-only manufacturing, sourcing, assembly, and quality-control capability.
+- `operations/commercial_intake.md` — commercial source of truth: added production partner positioning and cost-flexible sourcing rules.
+- `strategy/00_fastest_path.md` — sales positioning: updated to a three-person specialist engineering cell and added a prototype-to-series offer.
+- `README.md` — workspace overview: added production partner capability to the operating context.
+
 ## 2026-05-21 — Add English Slidev Bertrandt Comparison Deck
 
 **Objective:** Add an English Slidev version of the Bertrandt partner profile deck, including Osama and Coen portraits, Coen's 20 h/week profile, and an exported comparison PDF.

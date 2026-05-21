@@ -10,8 +10,9 @@ Wir koennen Bertrandt-Kunden kurzfristig in folgenden Bereichen unterstuetzen:
 - PCB-/Produktelektronik, Sensorik, Microcontroller, Wearable- und Medical-Hardware.
 - RF-/UAV-Control, MATLAB/Simulink-Validierung, LabVIEW/NI-Testautomatisierung, HIL/HILS und Embedded Interfaces.
 - Motion-Control-Subsysteme, Motor Driver, Sensorfusion, Teststrategie und prototypennahe Validierung.
+- EU-only Manufacturing- und Sourcing-Partner fuer Prototypen, Serie, Assembly und Qualitaetskontrolle; breitere und kostenguenstigere Beschaffungswege bei passendem Risiko-/Budgetprofil.
 
-Trebsijg van de Wijdeven ist ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Osama ist ebenfalls ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Remote-Arbeit ist bevorzugt; hybride Einsaetze in Muenchen/Bayern sind nach Abstimmung moeglich. Die Beauftragung kann ueber Coilworks GmbH erfolgen.
+Trebsijg van de Wijdeven ist ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Osama Shah ist ebenfalls ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Coen Greidanus ist mit bis zu 20 h/Woche verfuegbar. Remote-Arbeit ist bevorzugt; hybride Einsaetze in Muenchen/Bayern sind nach Abstimmung moeglich. Die Beauftragung kann ueber Coilworks GmbH erfolgen.
 
 Gerne stellen wir uns in einem kurzen Termin vor und klaeren, fuer welche Bertrandt-Projekte unser Profil aktuell am besten passt.
 

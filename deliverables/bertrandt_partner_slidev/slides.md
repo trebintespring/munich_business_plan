@@ -17,7 +17,7 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
   <div>
     <p class="eyebrow">Profile for Bertrandt Technology Consulting GmbH</p>
     <h1 class="hero-title">Coilworks GmbH<br><span>Specialist Hardware Engineering Cell</span></h1>
-    <p class="lead mt-8">Immediate specialist capacity for medical control systems, human-interactive hardware, RF/UAV control, PCB/product electronics, test automation, mechatronics, and engineering documentation.</p>
+    <p class="lead mt-8">Immediate specialist capacity for medical control systems, human-interactive hardware, RF/UAV control, PCB/product electronics, test automation, mechatronics, engineering documentation, and prototype-to-series production support.</p>
     <div class="fact-row mt-10">
       <span>100 hours/week combined capacity</span>
       <span>Remote + hybrid Munich/Bavaria</span>
@@ -35,12 +35,14 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
 
 <p class="eyebrow">Why this matters for Bertrandt</p>
 <h2>Fast reinforcement for complex hardware programs.</h2>
-<p class="lead mt-6 max-w-[880px]">We are not generic freelance capacity. We are a focused engineering cell for projects where mechanics, mechatronics, electronics, firmware, validation, and documentation have to work together.</p>
+<p class="lead mt-6 max-w-[880px]">We are not generic freelance capacity. We are a focused engineering cell for projects where mechanics, mechatronics, electronics, firmware, validation, documentation, and industrialization have to work together.</p>
 
-<div class="card-grid mt-10">
+<div class="card-grid three mt-10 compact-cards">
   <div class="card"><strong>Medical devices and safety</strong><p>Control architectures, redundancy, EMC-aware development, verification, and documented design decisions.</p></div>
   <div class="card"><strong>Controls and motion</strong><p>Sensing, control, actuation, motor drivers, sensor fusion, and integration-ready subsystems.</p></div>
   <div class="card"><strong>RF, UAV, and testing</strong><p>RF measurements, PX4/Pixhawk, MATLAB/Simulink, LabVIEW/NI, HIL/HILS, and data analysis.</p></div>
+  <div class="card"><strong>Production partners</strong><p>Solid partners for EU-only manufacturing, sourcing, assembly, quality control, prototypes, and series support.</p></div>
+  <div class="card"><strong>Cost-flexible sourcing</strong><p>Broader and lower-cost manufacturing or sourcing options can be used when project constraints allow.</p></div>
   <div class="card"><strong>Contract-ready</strong><p>Contracting through Coilworks GmbH, clear packages, NDA-ready, available on short notice with three complementary profiles.</p></div>
 </div>
 
@@ -71,7 +73,7 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
   <div class="card"><strong>Control systems</strong><p>Motor control, sensor fusion, embedded interfaces, safety behavior, and integration.</p></div>
   <div class="card"><strong>RF, UAV, and HIL</strong><p>RF testing, UAV control, PX4/Pixhawk, MATLAB/Simulink, LabVIEW/NI, and HIL/HILS.</p></div>
   <div class="card"><strong>Verification</strong><p>Test strategy, measurement setups, data analysis, hardware QA, and production-oriented validation.</p></div>
-  <div class="card"><strong>Documentation</strong><p>AI-assisted engineering documentation, DHF-adjacent structure, and supplier-ready packages.</p></div>
+  <div class="card"><strong>Manufacturing path</strong><p>EU-only partners for prototypes, series, sourcing, assembly, and quality control; broader and cheaper when needed.</p></div>
 </div>
 
 <div class="slide-footer">Coilworks GmbH | Bertrandt Partner Profile</div>
@@ -98,29 +100,28 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
 
 ---
 
-<div class="dark-slide absolute inset-0 p-16">
-  <div class="grid grid-cols-[330px_1fr] gap-12 h-full items-center">
-    <div class="portrait-frame">
-      <img src="/assets/osama-shah.avif" alt="Osama Shah" />
-    </div>
-    <div>
-      <p class="eyebrow">Osama Shah</p>
-      <h2 class="max-w-[880px]">Electrical engineer for RF, UAV control, test automation, and validation.</h2>
-      <p class="lead mt-8 max-w-[900px]">Adds RF/power-amplifier testing, UAV flight control, embedded interfaces, LabVIEW/NI automation, MATLAB/Simulink, and hardware QA to the engineering cell.</p>
-      <div class="skill-row mt-10">
-        <span>RF Testing</span>
-        <span>PX4 / Pixhawk</span>
-        <span>LabVIEW / NI</span>
-        <span>MATLAB / Simulink</span>
-        <span>RS232 / RS485 / CAN / SPI</span>
-        <span>HIL / HILS</span>
-        <span>Altium Designer</span>
-        <span>Hardware QA</span>
-      </div>
+<div class="grid grid-cols-[330px_1fr] gap-12 h-full items-center">
+  <div class="portrait-frame">
+    <img src="/assets/osama-shah.avif" alt="Osama Shah" />
+  </div>
+  <div>
+    <p class="eyebrow">Osama Shah</p>
+    <h2 class="max-w-[880px]">Electrical engineer for RF, UAV control, test automation, and validation.</h2>
+    <p class="lead mt-8 max-w-[900px]">Adds RF/power-amplifier testing, UAV flight control, embedded interfaces, LabVIEW/NI automation, MATLAB/Simulink, and hardware QA to the engineering cell.</p>
+    <div class="skill-row mt-10">
+      <span>RF Testing</span>
+      <span>PX4 / Pixhawk</span>
+      <span>LabVIEW / NI</span>
+      <span>MATLAB / Simulink</span>
+      <span>RS232 / RS485 / CAN / SPI</span>
+      <span>HIL / HILS</span>
+      <span>Altium Designer</span>
+      <span>Hardware QA</span>
     </div>
   </div>
-  <div class="slide-footer">Coilworks GmbH | Bertrandt Partner Profile</div>
 </div>
+
+<div class="slide-footer">Coilworks GmbH | Bertrandt Partner Profile</div>
 
 ---
 
@@ -225,6 +226,20 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
 
 ---
 
+<p class="eyebrow">Production, sourcing, and quality</p>
+<h2>Prototype-to-series support with the right manufacturing path.</h2>
+
+<div class="grid grid-cols-4 gap-5 mt-12 production-path">
+  <div class="timeline-card"><strong>EU-only manufacturing</strong><p>Stable European manufacturing and sourcing partners for sensitive programs, short loops, traceability, and quality control.</p></div>
+  <div class="timeline-card"><strong>Prototypes and assembly</strong><p>Procurement, build, integration, and iteration for early hardware, test benches, and proof-of-principle systems.</p></div>
+  <div class="timeline-card"><strong>Series path</strong><p>Partner network for small series, scalable assembly, supplier coordination, and production-adjacent documentation.</p></div>
+  <div class="timeline-card"><strong>Broader when needed</strong><p>When budget and risk allow it, broader and lower-cost sourcing options can be included without losing engineering ownership.</p></div>
+</div>
+
+<div class="slide-footer">Coilworks GmbH | Bertrandt Partner Profile</div>
+
+---
+
 <p class="eyebrow">Engagement model</p>
 <h2>Clear entry point, controlled risk, usable outputs.</h2>
 
@@ -241,7 +256,7 @@ exportFilename: coilworks_bertrandt_partner_profile_slidev
 
 <p class="eyebrow">Next step</p>
 <h2>Ready for short-notice project staffing through Bertrandt.</h2>
-<p class="lead mt-7 max-w-[980px]">Coilworks GmbH can be deployed as a compact specialist cell for Bertrandt clients: remote first, hybrid in Munich/Bavaria when needed, with up to 100 hours/week combined capacity.</p>
+<p class="lead mt-7 max-w-[980px]">Coilworks GmbH can be deployed as a compact specialist cell for Bertrandt clients: remote first, hybrid in Munich/Bavaria when needed, with up to 100 hours/week combined capacity plus a practical manufacturing and sourcing path.</p>
 
 <div class="card-grid mt-10">
   <div class="contact-card"><strong>Contracting</strong><p>Coilworks GmbH, c/o Impact Hub Munich, Gotzinger Str. 8, 81371 Munich, Germany</p></div>

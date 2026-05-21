@@ -6,7 +6,7 @@ This workspace is the operating system for getting paid engineering and consulti
 
 Win work at EUR 100/hour minimum, EUR 120-140/hour target for normal work, and up to EUR 180/hour for specialist work in medical-device compliance documentation, system architecture, human-interactive mechanical systems, RF/drone/control systems, PCB design, power electronics, and test automation.
 
-Current operating constraints: Trebsijg and Osama are available 40 hours/week ASAP, and Coen is available 20 hours/week ASAP; default work mode is remote, with hybrid possible in Munich/Bavaria. All commercial work should contract through Coilworks GmbH, even when individual freelancer profiles are used for platform visibility. See [operations/commercial_intake.md](operations/commercial_intake.md).
+Current operating constraints: Trebsijg and Osama are available 40 hours/week ASAP, and Coen is available 20 hours/week ASAP; default work mode is remote, with hybrid possible in Munich/Bavaria. The offer also includes solid production partners for EU-only prototype and series manufacturing, sourcing, assembly, and quality control, with broader lower-cost sourcing paths available when appropriate. All commercial work should contract through Coilworks GmbH, even when individual freelancer profiles are used for platform visibility. See [operations/commercial_intake.md](operations/commercial_intake.md).
 
 ## Where To Start
 

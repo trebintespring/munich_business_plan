@@ -29,6 +29,13 @@ Last updated: 2026-05-06
 - Standard analysis package: 40 hours.
 - Prototype package baseline: 160 hours, adjusted by scope.
 
+## Production Partner Positioning
+
+- Coilworks can coordinate solid production partners for EU-only manufacturing and sourcing when traceability, customer preference, compliance posture, or proximity matters.
+- Scope can include prototype sourcing, prototype assembly, quality-control loops, small-series preparation, supplier coordination, and production-adjacent documentation.
+- Broader and lower-cost sourcing or manufacturing options can be proposed when the project allows a more flexible cost/risk tradeoff.
+- Position this as an engineering-owned path from prototype to series, not as anonymous outsourcing.
+
 ## Trebsijg Electronics Positioning
 
 - PCB tools: Altium Designer and KiCad.
