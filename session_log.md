@@ -1,11 +1,13 @@
-## 2026-05-21 — Generate Bertrandt Prompt Images
+## 2026-05-21 — Clean Up Bertrandt Deck Visuals
 
-**Objective:** Generate the Bertrandt deck prompt images in parallel through the OpenAI API and store them for both deck formats.
+**Objective:** Remove the generated prompt images from the repository and make the HTML deck slide background treatment consistent.
 
 **Changes:**
-- `operations/generate_bertrandt_prompt_images.ps1` — created: added a reusable PowerShell generator that reads the sibling API reference, starts five parallel OpenAI image jobs, saves PNGs, and mirrors them into Slidev assets.
-- `deliverables/bertrandt_partner_deck/assets/` — generated assets: added five 1536x1024 PNG prompt images for manufacturing, prototype-to-series, quality control, integrated controls, and the specialist engineering cell.
-- `deliverables/bertrandt_partner_slidev/public/assets/` — generated assets: mirrored the same five PNG prompt images for Slidev use.
+- `deliverables/bertrandt_partner_deck/styles.css` — slide backgrounds: removed special `statement` and `closing` background overrides so HTML slides share the same color system.
+- `deliverables/bertrandt_partner_deck/assets/` — generated assets: removed five generated PNG images that should not be used.
+- `deliverables/bertrandt_partner_slidev/public/assets/` — generated assets: removed the mirrored generated PNG images from the Slidev asset folder.
+- `operations/generate_bertrandt_prompt_images.ps1` — generated image script: removed the image generation helper.
+- `session_log.md` — change history: removed the generated-image entry and recorded this cleanup.
 
 ## 2026-05-21 — Refine Bertrandt Deck Production Positioning
 

@@ -244,7 +244,6 @@ p {
 
 .statement {
   align-items: center;
-  background: linear-gradient(135deg, #f7f6f1 0%, #eef4f0 100%);
 }
 
 .statement h2 {
@@ -375,12 +374,6 @@ p {
 
 .production-path div {
   min-height: 250px;
-}
-
-.closing {
-  background:
-    linear-gradient(135deg, rgba(247, 246, 241, 0.96), rgba(220, 235, 230, 0.84)),
-    var(--paper);
 }
 
 .contact-block {
