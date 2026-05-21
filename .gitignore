@@ -1,0 +1,21 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets and private exports
+.env
+*.secret.*
+credentials*
+private_contacts*
+client_contracts/
+non_public_client_material/
+
+# Automation outputs
+raw_snapshots/
+scrape_cache/
+exports/
+*.sqlite
+*.db
+dist/browser-profile/
+deliverables/**/dist/browser-profile/

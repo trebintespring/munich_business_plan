@@ -1,0 +1,22 @@
+platform,url,tier,profile_type,owner,status,priority_action,login_email,rate_visible,last_updated,next_review,notes
+LinkedIn Services,https://www.linkedin.com/services/,1,individual,trebsijg,not_started,Create service page for medical docs/system architecture/medical wearable PCB,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed; contract through Coilworks GmbH"
+LinkedIn Services,https://www.linkedin.com/services/,1,individual,osama,not_started,Create service page for RF/UAV/test automation,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed; contract through Coilworks GmbH"
+Malt Germany,https://www.malt.de/,1,individual,both,not_started,Create individual profiles with premium rates and Coilworks contracting note,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed"
+freelancermap,https://www.freelancermap.de/,1,individual,both,not_started,Create profiles and saved searches,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed"
+GULP / Randstad Professional,https://www.gulp.de/,1,individual_company,both,not_started,Register and upload CVs with Coilworks entity details,,yes,2026-05-06,2026-05-08,"Use Coilworks GmbH where company/vendor details are requested"
+Hays Germany,https://www.hays.de/,1,individual_company,both,not_started,Upload CVs and contact contracting consultants,,yes,2026-05-06,2026-05-08,"Use Coilworks GmbH where company/vendor details are requested"
+Etengo,https://www.etengo.de/,1,individual,both,not_started,Register at My.Etengo and monitor projects,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed"
+FERCHAU,https://www.ferchau.com/,1,individual_company,both,not_started,Register in freelancer portal,,yes,2026-05-06,2026-05-08,"Use Coilworks GmbH where company/vendor details are requested"
+freelance.de,https://www.freelance.de/,1,individual,both,not_started,Create profiles and search agents,,yes,2026-05-06,2026-05-08,"No existing account setup confirmed"
+Cad Crowd,https://www.cadcrowd.com/,1,company_individual,both,not_started,Create engineering/product design service offers,,yes,2026-05-06,2026-05-10,"Emphasize medical/wearable PCB, prototype, and product electronics"
+Kolabtree,https://www.kolabtree.com/,1,individual_company,trebsijg,not_started,Join as medical device/scientific expert,,yes,2026-05-06,2026-05-10,"Use anonymous medical/electrical proof points"
+Upwork,https://www.upwork.com/,2,individual_agency,both,not_started,Create high-rate niche profiles only,,yes,2026-05-06,2026-05-12,
+Toptal,https://www.toptal.com/,2,individual,both,not_started,Apply after profile polish,,no,2026-05-06,2026-05-15,
+Junico,https://www.junico.de/,2,individual,both,not_started,Apply for AI/consulting/project categories,,yes,2026-05-06,2026-05-12,
+XING,https://www.xing.com/,2,individual,both,not_started,Update profiles and connect with recruiters,,yes,2026-05-06,2026-05-12,
+StepStone,https://www.stepstone.de/,2,individual,both,not_started,Create alerts for contract/interim roles,,optional,2026-05-06,2026-05-12,
+Indeed Germany,https://de.indeed.com/,2,individual,both,not_started,Create alerts and direct employer list,,optional,2026-05-06,2026-05-12,
+jobvector,https://www.jobvector.de/,2,individual,trebsijg,not_started,Create medical/life-science alerts,,optional,2026-05-06,2026-05-12,
+Guru,https://www.guru.com/,3,company,both,not_started,Use only if packaged offers are ready,,yes,2026-05-06,2026-05-20,
+Freelancer.com,https://www.freelancer.com/,3,individual_company,both,not_started,Use only for high-fit fixed projects,,yes,2026-05-06,2026-05-20,
+PeoplePerHour,https://www.peopleperhour.com/,3,individual,both,not_started,Low priority; use packaged AI/docs offer only,,yes,2026-05-06,2026-05-20,
