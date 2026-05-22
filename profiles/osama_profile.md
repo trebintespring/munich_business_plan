@@ -2,11 +2,11 @@
 
 ## Recommended Headline
 
-Electrical Engineer for RF, UAV Control, PCB Design, Power Electronics, LabVIEW/NI Test Automation, and MATLAB/Simulink Validation
+Electrical Engineer for PCB Electronics, Embedded Control Interfaces, RF/UAV Validation, Power Electronics, and LabVIEW/NI Test Automation
 
 ## Short Bio
 
-I help hardware, UAV, RF, and electronics teams design, integrate, test, and validate control and measurement systems. My background combines electrical engineering, UAV control systems, RF/power amplifier testing, LabVIEW/NI automation, MATLAB/Simulink, embedded communication interfaces, PCB design, and hardware QA.
+I help DACH hardware, electronics, RF, and UAV teams design, integrate, test, and validate PCB electronics, embedded control interfaces, and measurement systems. My background combines electrical engineering, RF/power amplifier testing, LabVIEW/NI automation, MATLAB/Simulink, embedded communication interfaces, PCB design, UAV control proof points, and hardware QA.
 
 I have worked on hearing-aid hardware testing, EMI/EMC related measurement support, aircraft control with Pixhawk/PX4, UAV fault detection and actuator model validation, NI/cRIO/cDAQ test benches, power amplifier testing, cable harness and environmental test benches, and sensor-heavy monitoring systems.
 
@@ -55,4 +55,4 @@ MATLAB, Simulink, LabVIEW, LabVIEW FPGA, Python, C/C++, Altium Designer, Git, PI
 
 ## German Profile Snippet
 
-Ich unterstütze Hardware-, UAV-, RF- und Elektronik-Teams bei Design, Integration, Test und Validierung von Steuerungs- und Messsystemen. Meine Schwerpunkte sind RF- und Power-Amplifier-Testing, Drohnen-/UAV-Control, MATLAB/Simulink, LabVIEW/NI-Testautomatisierung, PCB Design, Embedded Interfaces und Hardware-QA.
+Ich unterstütze DACH-Hardware-, Elektronik-, RF- und UAV-Teams bei Design, Integration, Test und Validierung von PCB-/Produktelektronik, Embedded-Control-Interfaces und Messsystemen. Meine Schwerpunkte sind RF- und Power-Amplifier-Testing, MATLAB/Simulink, LabVIEW/NI-Testautomatisierung, PCB Design, Embedded Interfaces, UAV-Control-Proof-Points und Hardware-QA.

@@ -2,13 +2,13 @@
 
 ## Short Version
 
-InteSpring Control Systems helps medical-device, defense, robotics, wearable, UAV, and industrial hardware teams turn complex control-heavy systems into documented, testable, and deployable products. We combine motion-control and human-kinematics credibility with precision mechatronics, PCB/product electronics, RF and UAV control, engineer-supervised automation, validation, sourcing, assembly, and prototype-to-series execution.
+InteSpring Control Systems helps DACH hardware teams design, prototype, validate, and document PCB electronics and embedded control systems for complex mechatronic products. We bring motion-control and human-kinematics credibility into medical, robotics, industrial, wearable, UAV, and defense-adjacent systems where electronics, controls, validation, documentation, sourcing, assembly, and prototype-to-series execution all need to line up.
 
 ## Marketplace Version
 
-InteSpring Control Systems is a specialist engineering team for complex hardware programs where mechanics, controls, electronics, firmware, validation, documentation, and production planning have to converge. Our work is strongest in medical devices, human-interactive systems, exoskeletons, lifting aids, robotics, UAV/drone systems, RF test setups, PCB/product electronics, and control architectures that need to survive real-world integration.
+InteSpring Control Systems is a specialist engineering team for PCB electronics, embedded control systems, validation, and technical documentation in complex mechatronic products. Our work is strongest where mechanics, electronics, firmware, test, documentation, and production planning have to converge: medical devices, industrial systems, robotics, wearables, exoskeletons, lifting aids, RF test setups, UAV systems, and defense-adjacent proof points.
 
-We can support short expert interventions or full development phases. Typical scopes include feasibility studies, system architecture, requirements cleanup, interface specifications, design rationale, compliance-adjacent technical documentation, MATLAB/Simulink validation, LabVIEW/NI test automation, PCB review/design in Altium Designer and KiCad, RF and power test support, RTOS-aware embedded interface review, digital-twin and simulation concepts, supplier-ready documentation, prototype planning, sourcing, assembly, quality control, and production partner coordination.
+We can support short expert interventions or full development phases. Typical scopes include feasibility studies, system architecture, requirements cleanup, interface specifications, control logic, design rationale, technical documentation for regulated or certification-sensitive development, MATLAB/Simulink validation, LabVIEW/NI test automation, PCB review/design in Altium Designer and KiCad, RF and power test support, RTOS-aware embedded interface review, digital-twin and simulation concepts, supplier-ready documentation, prototype planning, sourcing, assembly, quality control, and production partner coordination.
 
 We also use engineer-supervised automation for faster documentation, validation, PCB review, and component-risk checks. These internal workflows support documentation drafting and consistency checks, requirements-to-test traceability, validation package review, PCB review, component availability and lifecycle scans, BOM risk checks, supplier comparison, design-decision capture, intake summarization, and project evidence organization. They do not replace engineering judgment; they make reviews faster, more repeatable, and easier to hand over.
 
@@ -16,12 +16,11 @@ For hardware work that needs a path beyond engineering prototypes, we have solid
 
 ## Programs And Tools
 
-- Mechanical and system design: SolidWorks, Onshape, Fusion 360, rapid prototyping workflows, prototype build planning, and mechanical integration documentation.
-- Electronics and PCB: Altium Designer, KiCad, sensor and microcontroller boards, wearable/medical electronics, motor drivers, power electronics, connector/interface planning, BOM review, and DFM/DFT-oriented handover packages.
-- Controls and simulation: MATLAB, Simulink, Python, C/C++, RTOS-aware embedded concepts, digital twins, motor-control analysis, sensor fusion, supervisory logic, gait/intent recognition, and embedded interface validation.
-- Test and validation: LabVIEW, NI hardware, HIL/HILS concepts, RF/power-amplifier test setups, measurement planning, data analysis, validation reports, and hardware QA checklists.
-- UAV and embedded interfaces: PX4, Pixhawk, RS232, RS485, CAN, SPI, embedded interface diagnostics, RF test support, and field-test preparation.
-- Engineer-supervised automation: documentation workflows, validation traceability, PCB review, component lifecycle and availability scans, BOM risk review, supplier evidence organization, and design-history package assembly.
+- System design: architecture, interfaces, control logic, simulation concepts, RTOS-aware embedded planning, digital-twin thinking, integration planning, and mechanical/electrical trade-off documentation. Tools include MATLAB, Simulink, Python, C/C++, SolidWorks, Onshape, and Fusion 360 where relevant.
+- Electronics and PCB: PCB design/review, schematic review, BOM review, motor drivers, sensor interfaces, microcontroller electronics, wearable/medical electronics, connector/interface planning, and DFM/DFT-oriented handover packages. Tools include Altium Designer and KiCad.
+- Validation and test: test strategy, HIL/HILS concepts, measurement plans, RF/power-amplifier test setups, traceability, validation reports, data analysis, and hardware QA checklists. Tools include LabVIEW, NI hardware, MATLAB, and Simulink.
+- Embedded and field interfaces: RTOS-aware interface review, RS232, RS485, CAN, SPI, UART, telemetry, PX4/Pixhawk where relevant, embedded diagnostics, RF test support, and field-test preparation.
+- Automation layer: engineer-supervised automation for documentation workflows, validation traceability, PCB review, component lifecycle and availability scans, BOM/component-risk review, supplier evidence organization, and design-history package assembly.
 
 ## Core Deliverables
 
@@ -34,11 +33,12 @@ For hardware work that needs a path beyond engineering prototypes, we have solid
 
 ## Typical Engagements
 
+- PCB electronics and embedded control-system design/review.
 - Medical-device documentation and design-history support.
 - System architecture and design documentation sprint.
 - Human-interactive mechanical product feasibility.
-- RF/drone/control systems troubleshooting.
-- PCB/product electronics, power electronics, and test automation support.
+- RF, UAV, and defense-adjacent control systems troubleshooting.
+- Product electronics, power electronics, and test automation support.
 - Supply-chain and industrialization planning for hardware products.
 - EU-only or cost-flexible prototype, sourcing, assembly, quality-control, and series-production coordination.
 
@@ -51,7 +51,7 @@ Availability: Trebsijg and Osama are each available up to 40 hours/week ASAP. Co
 ## Proof Points To Use
 
 - InteSpring public positioning: motion control, human kinematics, precision mechatronics.
-- Medical-device and defense sector experience.
+- Medical-device, industrial, robotics, UAV, and defense-adjacent experience.
 - Exoskeleton and wearable system development.
 - Product development from feasibility to prototype, quality control, assembly, series pathway, and industrialization.
 - Trebsijg: CTO at InteSpring, exoskeleton coordination, mechanical engineering, biorobotics, Altium/KiCad PCB design for sensors, microcontrollers, wearable and medical hardware, rapid prototyping, broad documentation/tooling skill set.
@@ -68,4 +68,4 @@ Availability: Trebsijg and Osama are each available up to 40 hours/week ASAP. Co
 
 ## German Short Version
 
-InteSpring Control Systems unterstuetzt Medizintechnik-, Defense-, Robotik- und Industrie-Hardware-Teams bei komplexen human-interaktiven Steuerungssystemen: Motion Control, Biomechanik, Mechatronik, RF/UAV-Control, PCB-/Produktelektronik, Testautomatisierung und engineer-supervised automation fuer technische Dokumentation. Wir liefern Expertensprints und strukturierte Entwicklungsphasen von Machbarkeit und Architektur bis Prototyp, Validierung, Assembly, Qualitaetskontrolle, EU-only Fertigungspartnern und Industrialisierung. Unsere engineer-supervised automation beschleunigt Dokumentation, Validierungs-Traceability, PCB-Reviews, Komponenten- und BOM-Risiko-Checks, Lieferantennachweise und Design-History-Pakete.
+InteSpring Control Systems unterstuetzt DACH-Hardware-Teams bei Design, Prototyping, Validierung und Dokumentation von PCB-/Produktelektronik und Embedded-Control-Systemen fuer komplexe mechatronische Produkte. Unsere Erfahrung liegt in Medizintechnik, Robotik, Industrie, Wearables, UAV- und defense-adjacent Systemen. Wir liefern Expertensprints und strukturierte Entwicklungsphasen von Machbarkeit, Systemarchitektur, Schnittstellen, Control Logic und technischer Dokumentation fuer regulierte oder zertifizierungssensitive Entwicklung bis Prototyp, Validierung, Assembly, Qualitaetskontrolle, EU-only Fertigungspartnern und Industrialisierung. Unsere engineer-supervised automation beschleunigt Dokumentation, Validierungs-Traceability, PCB-Reviews, Komponenten- und BOM-Risiko-Checks, Lieferantennachweise und Design-History-Pakete.

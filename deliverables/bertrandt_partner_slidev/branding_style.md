@@ -7,10 +7,10 @@ The Slidev deck should feel like a sharper English live pitch or screen-share de
 ## Brand Frame
 
 - Public-facing name: InteSpring Control Systems.
-- Positioning: engineering cell for control-heavy hardware programs where mechanics, electronics, firmware, validation, documentation, and sourcing converge.
+- Positioning: engineering cell for PCB electronics, embedded control systems, validation, and technical documentation where mechanics, electronics, firmware, test, documentation, and sourcing converge.
 - Tone: crisp, executive, confident, and technical.
 - Automation language: engineer-supervised automation for faster documentation, validation, PCB review, and component-risk checks.
-- Proof style: show evidence quickly, including RTOS-aware embedded interfaces and digital-twin/simulation capability where relevant, then move to how Bertrandt can deploy the team.
+- Proof style: lead with the buyable PCB/control/validation/documentation offer, then show medical, robotics, industrial, wearable, RF/UAV, defense-adjacent, RTOS, and digital-twin evidence quickly.
 
 ## Visual Style
 
@@ -27,7 +27,7 @@ Slidev is strongest when it creates rhythm, so it should be shorter and more pre
 - Hero as a strong statement, not a document cover.
 - Capability slide with four fit signals.
 - Deliverables slide with package bands.
-- Engineering stack slide as a vertical list for fast scanning.
+- Engineering stack slide grouped by outcome first: system design, electronics, validation, automation layer.
 - Automation slide that frames the workflow without exposing IP or overclaiming AI.
 - Team slide with three equal profiles.
 - Proof wall for fast credibility.
@@ -42,6 +42,8 @@ Slidev is strongest when it creates rhythm, so it should be shorter and more pre
 - Prefer engineer-supervised automation, review workflows, traceability, and risk checks.
 - Mention RTOS and digital twins as part of controls, embedded validation, and simulation language.
 - Keep contracting details light: partner details can be supplied during onboarding.
+- Put sectors after the core offer so the deck does not feel defense/UAV-first.
+- Use technical documentation for regulated or certification-sensitive development.
 
 ## Future Refinement Ideas
 

@@ -1,3 +1,25 @@
+## 2026-05-22 — Narrow Offer Positioning Around PCB And Embedded Controls
+
+**Objective:** Apply the updated procurement-first positioning across profiles, decks, strategy, and supporting documents, then regenerate the Bertrandt pitch PDFs.
+
+**Changes:**
+- `profiles/company_profile.md` — company profile sections: narrowed the opening to DACH hardware teams, PCB electronics, embedded control systems, validation, and documentation; moved sectors into supporting context; grouped programs/tools by outcome.
+- `profiles/trebsijg_profile.md` — Trebsijg profile sections: shifted headline, bio, rates, and German snippet toward PCB electronics, embedded-control planning, and technical documentation for regulated or certification-sensitive development.
+- `profiles/osama_profile.md` — Osama profile sections: shifted headline and bio toward PCB electronics, embedded control interfaces, RF/UAV validation, and measurement systems.
+- `deliverables/bertrandt_partner_deck/index.html` — HTML deck sections: updated hero, relevance slide, tool stack, and team copy to lead with PCB, embedded control, validation, documentation, and outcome-grouped capabilities.
+- `deliverables/bertrandt_partner_deck/bertrandt_message.md` — portal message: updated German Bertrandt outreach copy with narrower offer hierarchy and sector/proof-point ordering.
+- `deliverables/bertrandt_partner_deck/branding_style.md` — style guidance: updated HTML deck brand rules to lead with PCB/control/validation/documentation and outcome-grouped tooling.
+- `deliverables/bertrandt_partner_deck/dist/intespring_bertrandt_partner_profile.pdf` — export: regenerated the HTML deck PDF.
+- `deliverables/bertrandt_partner_slidev/slides.md` — Slidev deck sections: updated hero, fit, engineering stack, team, and proof-point slides with the narrowed offer and outcome grouping.
+- `deliverables/bertrandt_partner_slidev/branding_style.md` — style guidance: updated Slidev brand rules to lead with the buyable PCB/control/validation/documentation offer.
+- `deliverables/bertrandt_partner_slidev/dist/intespring_bertrandt_partner_profile_slidev.pdf` — export: regenerated the Slidev deck PDF.
+- `strategy/00_fastest_path.md` — sales strategy: reordered priority offers around PCB electronics and embedded control review, with sectors as proof/context.
+- `strategy/01_platforms_priority.md` — platform notes: softened defense-first wording to defense-adjacent context.
+- `README.md` — immediate goal: aligned revenue target wording with PCB electronics, embedded control systems, validation, and certification-sensitive documentation.
+- `operations/search_queries.md` — search terms: softened defense search wording to defense-adjacent.
+- `operations/scraping_and_feedback_system.md` — research workflow: softened direct employer category wording to defense-adjacent.
+- `session_log.md` — change history: added this entry and removed stale hype-prone wording from the previous entry.
+
 ## 2026-05-22 — Reframe Bertrandt Pitch As InteSpring Control Systems
 
 **Objective:** Update the company profile and Bertrandt pitch materials around the InteSpring Control Systems story, clearer deliverables, team framing, and practical engineer-supervised automation.
@@ -5,7 +27,7 @@
 **Changes:**
 - `profiles/company_profile.md` — company profile sections: reframed public offer as InteSpring Control Systems, expanded programs/tools, deliverables, RTOS/digital-twin capability, and engineer-supervised automation language.
 - `profiles/coen_profile.md` — Coen profile sections: removed freelancer framing from the headline, bio, and selected experience.
-- `profiles/trebsijg_profile.md` — Trebsijg profile sections: replaced AI-assisted documentation wording with engineer-supervised documentation automation.
+- `profiles/trebsijg_profile.md` — Trebsijg profile sections: replaced hype-prone documentation wording with engineer-supervised documentation automation.
 - `strategy/00_fastest_path.md` — positioning sections: softened AI language and added engineer-supervised documentation automation framing.
 - `deliverables/bertrandt_partner_deck/index.html` — HTML deck sections: shortened and rebuilt the German pitch around InteSpring Control Systems, team delivery, tool stack, deliverables, proof points, RTOS/digital-twin capability, and engineer-supervised automation.
 - `deliverables/bertrandt_partner_deck/styles.css` — HTML deck styling: added layouts for tool stack, team, proof grid, and deliverable slides with updated InteSpring footer branding.

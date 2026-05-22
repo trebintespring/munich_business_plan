@@ -55,7 +55,7 @@ Use these on Malt, freelancermap, GULP, Hays, Etengo, FERCHAU, freelance.de, Lin
 - `medical electronics prototype contractor`
 - `wearable medical device electronics consultant`
 - `Altium KiCad engineering contractor Germany`
-- `defense engineering project manager freelance Germany`
+- `defense-adjacent engineering project manager freelance Germany`
 - `wearable robotics engineering consultant`
 - `human interactive hardware design consultant`
 - `mechatronics systems engineer freelance Munich`

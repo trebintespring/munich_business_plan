@@ -7,9 +7,9 @@ The HTML deck should behave like a polished German partner-profile brochure that
 ## Brand Frame
 
 - Public-facing name: InteSpring Control Systems.
-- Positioning: compact specialist team for control-heavy hardware programs.
+- Positioning: compact specialist team for PCB electronics, embedded control systems, validation, and technical documentation for complex DACH mechatronic products.
 - Tone: precise, calm, technical, and low-hype.
-- Core proof: medical control systems, wearable robotics, RF/UAV validation, RTOS-aware embedded interfaces, digital-twin/simulation concepts, PCB/product electronics, mechatronics, and prototype-to-series execution.
+- Core proof: PCB/product electronics, embedded control systems, validation, documentation, medical control systems, wearable robotics, RTOS-aware embedded interfaces, digital-twin/simulation concepts, RF/UAV proof points, defense-adjacent examples, mechatronics, and prototype-to-series execution.
 - Automation language: engineer-supervised automation for faster documentation, validation, PCB review, and component-risk checks.
 
 ## Visual Style
@@ -25,8 +25,8 @@ The HTML deck should behave like a polished German partner-profile brochure that
 HTML is strongest as a durable document, so it should include enough detail for standalone reading:
 
 - A clear hero with capacity and availability.
-- A compact relevance slide for Bertrandt.
-- A tools/programs/automation slide with concrete software and review workflows.
+- A compact relevance slide for Bertrandt that leads with PCB electronics, embedded control, validation, and documentation.
+- A tools/programs/automation slide grouped by outcome first, with tools listed only where they increase trust.
 - Deliverable packages with hour bands and outputs.
 - A team slide that presents Trebsijg, Osama, and Coen as one delivery cell.
 - A proof-point grid with images and short evidence summaries.
@@ -40,6 +40,8 @@ HTML is strongest as a durable document, so it should include enough detail for 
 - Use deliverable nouns: diagnostic, analysis sprint, PCB/BOM review, validation package, production handover, supplier evidence.
 - Mention RTOS and digital twins as practical engineering knowledge, not as abstract buzzwords.
 - Keep German text plain and procurement-friendly; no startup or AI hype framing.
+- Put sectors after the buyable offer; use medical, robotics, industrial, wearable, UAV, and defense-adjacent as context or proof points.
+- Use technical documentation for regulated or certification-sensitive development.
 
 ## Future Refinement Ideas
 

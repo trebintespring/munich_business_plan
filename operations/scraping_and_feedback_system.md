@@ -14,7 +14,7 @@ Logged-in research is allowed only as a user-assisted workflow: the user logs in
 | Email alerts | Hays, GULP, Malt, LinkedIn, XING, StepStone, Indeed | Parse mailbox/export manually at first | Daily |
 | Manual profile metrics | views, invites, messages, interviews | Enter in platform tracker | Weekly |
 | Recruiter conversations | Hays/GULP/FERCHAU/Etengo/recruiters | CRM notes | Same day |
-| Direct employer list | MedTech, robotics, aerospace, defense, industrial automation firms | Manual research and LinkedIn | Weekly |
+| Direct employer list | MedTech, robotics, aerospace, defense-adjacent, industrial automation firms | Manual research and LinkedIn | Weekly |
 
 ## Minimum Database Schema
 

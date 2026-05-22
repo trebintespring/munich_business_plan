@@ -2,16 +2,17 @@
 
 ## Recommended Headline
 
-CTO / System Architect for Human-Interactive Hardware, Medical/Wearable PCB Design, Engineer-Supervised Documentation Automation, and Rapid Prototyping
+CTO / System Architect for PCB Electronics, Embedded Control Systems, Validation Documentation, and Rapid Prototyping
 
 ## Short Bio
 
-I help hardware and medical-device teams turn complex ideas into clear system architecture, documented design decisions, PCB/product electronics implementation, prototypes, and supplier-ready development plans. My background combines mechanical engineering, biorobotics, human-interactive systems, sensor and microcontroller PCB design, rapid prototyping, technical documentation, and CTO-level project coordination.
+I help DACH hardware and medical-device teams turn complex ideas into clear system architecture, PCB/product electronics implementation, embedded-control planning, documented design decisions, prototypes, and supplier-ready development plans. My background combines mechanical engineering, biorobotics, human-interactive systems, sensor and microcontroller PCB design, rapid prototyping, technical documentation, and CTO-level project coordination.
 
-At InteSpring I work on biomechanical and microhydraulic systems, exoskeleton development, motion-control products, medical and defense applications, and coordination with technical partners. I am especially strong where engineering work needs to become clear documentation: system architecture, design rationale, requirements, verification planning, compliance support, and engineer-supervised documentation automation.
+At InteSpring I work on biomechanical and microhydraulic systems, exoskeleton development, motion-control products, medical applications, defense-adjacent proof points, and coordination with technical partners. I am especially strong where engineering work needs to become clear documentation: system architecture, design rationale, requirements, verification planning, technical documentation for regulated or certification-sensitive development, and engineer-supervised documentation automation.
 
 ## Core Offers
 
+- PCB electronics and embedded-control review.
 - Medical-device documentation sprint.
 - Engineer-supervised technical and compliance documentation cleanup.
 - System architecture and design documentation.
@@ -37,7 +38,7 @@ PCB design, schematic capture, PCB layout, Altium Designer, KiCad, sensor and mi
 ## Rate Guidance
 
 - Normal consulting: EUR 120-140/hour.
-- Medical documentation / architecture / regulated specialist work: EUR 150-180/hour.
+- PCB/control architecture, medical documentation, and regulated specialist work: EUR 150-180/hour.
 - Minimum paid diagnostic: 4 hours.
 - Standard analysis sprint: around 40 hours.
 - Prototype sprint baseline: around 160 hours, adjusted by PCB stackup, component count, mechanical complexity, risk, and documentation depth.
@@ -52,4 +53,4 @@ PCB design, schematic capture, PCB layout, Altium Designer, KiCad, sensor and mi
 
 ## German Profile Snippet
 
-Ich unterstütze Hardware- und Medizintechnik-Teams dabei, komplexe technische Ideen in klare Systemarchitekturen, PCB-/Produktelektronik, Designentscheidungen, Prototypenpläne und verwertbare technische Dokumentation zu übersetzen. Meine Stärken liegen in human-interaktiven mechanischen Systemen, Sensorik-/Microcontroller-PCBs, Wearable- und Medizintechnik-Hardware, Rapid Prototyping, AI-gestützter Dokumentation, Compliance-naher Entwicklungsdokumentation und CTO-naher Projektstrukturierung.
+Ich unterstütze DACH-Hardware- und Medizintechnik-Teams dabei, komplexe technische Ideen in klare Systemarchitekturen, PCB-/Produktelektronik, Embedded-Control-Planung, Designentscheidungen, Prototypenpläne und verwertbare technische Dokumentation zu übersetzen. Meine Stärken liegen in Sensorik-/Microcontroller-PCBs, Wearable- und Medizintechnik-Hardware, human-interaktiven mechanischen Systemen, Rapid Prototyping, engineer-supervised documentation automation, technischer Dokumentation fuer regulierte oder zertifizierungssensitive Entwicklung und CTO-naher Projektstrukturierung.

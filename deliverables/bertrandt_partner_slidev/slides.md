@@ -16,7 +16,7 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
 <div class="statement-hero">
   <p class="eyebrow">Bertrandt Technology Consulting partner profile</p>
   <h1>InteSpring<br><span>Control Systems</span></h1>
-  <p class="lead mt-8 max-w-[920px]">A compact engineering team for control-heavy medical, robotics, wearable, UAV, RF, PCB, validation, and prototype-to-series hardware programs.</p>
+  <p class="lead mt-8 max-w-[920px]">A compact engineering team for PCB electronics, embedded control systems, validation, and technical documentation for complex DACH mechatronic products.</p>
   <div class="fact-row mt-10">
     <span>100 h/week combined team capacity</span>
     <span>Remote + hybrid Munich/Bavaria</span>
@@ -30,13 +30,13 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
 ---
 
 <p class="eyebrow">Where we fit</p>
-<h2>When hardware programs need more than one discipline at once.</h2>
+<h2>When PCB electronics, embedded controls, validation, and documentation need one owner.</h2>
 
 <div class="signal-grid mt-10">
-  <div><strong>Medical and safety control</strong><p>Control architectures, redundancy, EMC-aware development, verification, and documented design decisions.</p></div>
-  <div><strong>Motion and mechatronics</strong><p>Sensing, motor drivers, actuation, sensor fusion, exoskeletons, robotics, and human-interactive subsystems.</p></div>
-  <div><strong>RF, UAV, and validation</strong><p>RF testing, PX4/Pixhawk, MATLAB/Simulink, digital-twin concepts, RTOS-aware embedded interfaces, LabVIEW/NI, HIL/HILS, and data analysis.</p></div>
-  <div><strong>Prototype to series</strong><p>Prototype builds, sourcing, assembly, QA, EU-only manufacturing partners, and broader lower-cost paths when risk allows.</p></div>
+  <div><strong>PCB and electronics</strong><p>Schematic/PCB review, sensor interfaces, microcontrollers, motor drivers, BOM risk, component checks, and DFM/DFT handover.</p></div>
+  <div><strong>Embedded control</strong><p>Control logic, RTOS-aware interfaces, sensor fusion, actuation, simulation, digital twins, and integration planning.</p></div>
+  <div><strong>Validation and documentation</strong><p>Test strategy, HIL concepts, measurement plans, traceability, technical documentation for regulated or certification-sensitive development, and reports.</p></div>
+  <div><strong>Sectors and proof points</strong><p>Medical, robotics, industrial, wearable, RF/UAV, and defense-adjacent systems without leading with a narrow market label.</p></div>
 </div>
 
 <div class="slide-footer">InteSpring Control Systems | Bertrandt Partner Profile</div>
@@ -58,13 +58,13 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
 ---
 
 <p class="eyebrow">Engineering stack</p>
-<h2>Tooling that supports regulated, traceable hardware work.</h2>
+<h2>Grouped by outcome, with tools only where they build trust.</h2>
 
 <div class="stack-list mt-8">
-  <div><strong>CAD and mechanical integration</strong><p>SolidWorks, Onshape, Fusion 360, prototype build planning, mechanical integration notes, and assembly handover.</p></div>
-  <div><strong>PCB and electronics</strong><p>Altium Designer, KiCad, sensor boards, microcontrollers, wearables, medical electronics, motor drivers, BOM and DFM/DFT review.</p></div>
-  <div><strong>Controls and simulation</strong><p>MATLAB, Simulink, Python, C/C++, RTOS-aware concepts, digital twins, motor control, sensor fusion, supervisory logic, and embedded validation.</p></div>
-  <div><strong>Test, RF, and automation</strong><p>LabVIEW/NI, HIL/HILS, digital-twin evidence, RF and power test setups, PX4/Pixhawk, RS232, RS485, CAN, SPI, measurement planning, and hardware QA.</p></div>
+  <div><strong>System design</strong><p>Architecture, interfaces, control logic, simulation, RTOS-aware planning, digital-twin concepts, integration planning, and mechanical/electrical trade-offs.</p></div>
+  <div><strong>Electronics</strong><p>PCB design/review, BOM review, motor drivers, sensor interfaces, microcontrollers, DFM/DFT handover, Altium Designer, and KiCad.</p></div>
+  <div><strong>Validation</strong><p>Test strategy, HIL/HILS concepts, measurement plans, traceability, reports, LabVIEW/NI, MATLAB, Simulink, and hardware QA.</p></div>
+  <div><strong>Automation layer</strong><p>Engineer-supervised documentation workflows, PCB review, BOM/component-risk checks, supplier evidence, and design-history organization.</p></div>
 </div>
 
 <div class="slide-footer">InteSpring Control Systems | Bertrandt Partner Profile</div>
@@ -93,13 +93,13 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
     <img src="/assets/trebsijg-intespring.webp" alt="Trebsijg van de Wijdeven" />
     <strong>Trebsijg van de Wijdeven</strong>
     <span>CTO / system architect</span>
-    <p>Human-interactive hardware, mechatronics, PCB integration, rapid prototyping, and documentation-heavy engineering.</p>
+    <p>PCB/product electronics, embedded-control planning, human-interactive hardware, rapid prototyping, and documentation for regulated or certification-sensitive development.</p>
   </div>
   <div>
     <img src="/assets/osama-shah.avif" alt="Osama Shah" />
     <strong>Osama Shah</strong>
     <span>Electrical / RF / validation</span>
-    <p>RF testing, UAV control, LabVIEW/NI, MATLAB/Simulink, embedded interfaces, HIL/HILS, and hardware QA.</p>
+    <p>PCB/electronics, embedded interfaces, RF testing, UAV proof points, LabVIEW/NI, MATLAB/Simulink, HIL/HILS, and hardware QA.</p>
   </div>
   <div>
     <img src="/assets/coen-greidanus.jpg" alt="Coen Greidanus" />
@@ -114,7 +114,7 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
 ---
 
 <p class="eyebrow">Proof points</p>
-<h2>Selected examples from control-heavy hardware.</h2>
+<h2>Selected examples from PCB/control-heavy hardware.</h2>
 
 <div class="proof-wall mt-8">
   <div><img src="/assets/operating-table.png" alt="Operating table control system" /><strong>Operating table</strong><p>Solenoid drivers, DC motor drivers, bus architecture, power supervision, redundancy, and EMC-aware development.</p></div>
@@ -130,7 +130,7 @@ exportFilename: intespring_bertrandt_partner_profile_slidev
 <div class="grid grid-cols-[370px_1fr] gap-12 h-full items-center">
   <div class="visual-frame h-[560px]"><img src="/assets/centaur-exoskeleton.png" alt="Centaur exoskeleton control system" /></div>
   <div>
-    <p class="eyebrow">Wearable robotics / defense</p>
+    <p class="eyebrow">Wearable robotics / defense-adjacent</p>
     <h2>Centaur exoskeleton: low-power sensing, drivers, and robust sensor fusion.</h2>
     <p class="mt-6">Human-powered hydraulic exoskeleton with a proprietary low-power control system, 5x miniaturized 9-axis IMU array, solenoid hydraulic drivers, gait recognition, and intent recognition.</p>
     <div class="metric-row mt-8">
