@@ -14,6 +14,8 @@
 - `deliverables/bertrandt_partner_slidev_editorial/public/assets/` — shared imagery copied from the original Slidev deck.
 - `session_log.md` — change history: added this entry.
 
+**Push status:** Commit `5919613` is local-only. Push to `origin/main` blocked by Git Credential Manager hanging on HTTP 401 (no cached PAT, no interactive TTY available to enter credentials). Run `git push origin main` from an interactive terminal to complete delivery.
+
 ---
 
 ## 2026-05-22 — Refresh Bertrandt Deck Visual Systems
