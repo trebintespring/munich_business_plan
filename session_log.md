@@ -1,3 +1,21 @@
+## 2026-05-22 — Add Comparison Decks: Blueprint & Editorial
+
+**Objective:** Produce two completely new, parallel Bertrandt partner decks — one for each presentation method — in fresh folders so they can be compared side-by-side with the existing brochure/Slidev pair. Each uses a distinct branding direction (technical blueprint vs. editorial magazine).
+
+**Changes:**
+- `deliverables/bertrandt_partner_deck_blueprint/index.html` — new HTML deck: 9-sheet "Blueprint Engineering" layout with title block, footer rule, signal-chain diagram, scale-bar deliverables, and corner-ticked asset frames.
+- `deliverables/bertrandt_partner_deck_blueprint/styles.css` — new HTML deck visual system: deep navy "blueprint paper" with cyan grid, JetBrains Mono callouts, Inter body, signal-orange accent.
+- `deliverables/bertrandt_partner_deck_blueprint/README.md` — concept and palette documentation for the Blueprint HTML deck.
+- `deliverables/bertrandt_partner_deck_blueprint/assets/` — shared imagery copied from the original brochure deck.
+- `deliverables/bertrandt_partner_slidev_editorial/slides.md` — new Slidev deck: 9-spread "Editorial Magazine" treatment with masthead, folios, drop cap, giant pull quote, big editorial numbers, and long-read case spread.
+- `deliverables/bertrandt_partner_slidev_editorial/style.css` — new Slidev visual system: ivory paper, Fraunces serif display + Inter body, ember red and deep teal accents, asymmetric magazine layouts.
+- `deliverables/bertrandt_partner_slidev_editorial/package.json` — Slidev scaffolding with dev (`--port 3030`) and export scripts for the editorial deck.
+- `deliverables/bertrandt_partner_slidev_editorial/README.md` — concept, palette, and run instructions for the Editorial Slidev deck.
+- `deliverables/bertrandt_partner_slidev_editorial/public/assets/` — shared imagery copied from the original Slidev deck.
+- `session_log.md` — change history: added this entry.
+
+---
+
 ## 2026-05-22 — Refresh Bertrandt Deck Visual Systems
 
 **Objective:** Rebuild the Bertrandt HTML and Slidev decks as English-only materials with distinct color systems, corrected image framing, regenerated PDFs, and updated style guidance.

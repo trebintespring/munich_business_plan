@@ -1,0 +1,14 @@
+{
+  "name": "bertrandt_partner_slidev_editorial",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev slides.md --port 3030",
+    "export": "slidev export slides.md --output dist/intespring_bertrandt_partner_profile_editorial_slidev.pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.29",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.45.0"
+  }
+}

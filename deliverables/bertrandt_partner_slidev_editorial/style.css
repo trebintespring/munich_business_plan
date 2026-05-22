@@ -1,0 +1,422 @@
+/* =====================================================================
+   InteSpring Control Systems — Editorial Magazine Slidev deck
+   Concept: high-end magazine spread. Ivory paper, big serif display,
+   asymmetric layouts, pull quotes, generous whitespace.
+   ===================================================================== */
+
+:root {
+  --ivory: #F1ECE2;
+  --paper: #F7F3EB;
+  --ink: #111111;
+  --ink-soft: #2A2A2A;
+  --ink-mute: #6B675F;
+  --ember: #D2492A;
+  --teal: #14524B;
+  --rule: rgba(17, 17, 17, 0.18);
+  --rule-soft: rgba(17, 17, 17, 0.10);
+}
+
+html, body, #app {
+  background: var(--ivory) !important;
+  color: var(--ink);
+}
+
+.slidev-layout {
+  background: var(--ivory) !important;
+  color: var(--ink);
+  padding: 0 !important;
+  font-family: "Inter", system-ui, sans-serif;
+  font-feature-settings: "ss01", "cv11";
+  position: relative;
+  overflow: hidden;
+}
+
+.slidev-layout, .slidev-layout * { font-family: "Inter", system-ui, sans-serif; }
+.slidev-layout h1, .slidev-layout h2, .slidev-layout .display, .slidev-layout .headline, .slidev-layout .headline-tight,
+.slidev-layout .pull-quote p, .slidev-layout em, .slidev-layout .big, .slidev-layout .metrics b, .slidev-layout .big-numbers .big,
+.slidev-layout .colophon {
+  font-family: "Fraunces", "Georgia", serif;
+  font-feature-settings: "ss01", "ss02";
+}
+
+.slidev-layout em { font-style: italic; color: var(--ember); }
+
+/* ---------- Masthead ---------- */
+.masthead {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
+  padding: 14px 56px 12px;
+  border-bottom: 1px solid var(--ink);
+  font-family: "JetBrains Mono", ui-monospace, monospace !important;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: var(--ivory);
+  z-index: 2;
+}
+.masthead-l { text-align: left; }
+.masthead-c { text-align: center; color: var(--ink-mute); }
+.masthead-r { text-align: right; color: var(--teal); }
+
+/* ---------- Folio (page footer) ---------- */
+.folio {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 56px;
+  border-top: 1px solid var(--rule);
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 10.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  z-index: 2;
+}
+
+/* ---------- Kicker / standfirst ---------- */
+.kicker {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ember);
+  margin: 60px 56px 8px 56px;
+}
+
+.standfirst {
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: 920px;
+  margin: 0 56px 22px;
+}
+
+/* ---------- Headlines ---------- */
+.display {
+  font-weight: 600;
+  font-size: 78px;
+  line-height: 0.95;
+  letter-spacing: -0.028em;
+  color: var(--ink);
+  margin: 8px 0 22px 0;
+}
+.headline {
+  font-weight: 500;
+  font-size: 52px;
+  line-height: 1.02;
+  letter-spacing: -0.022em;
+  color: var(--ink);
+  margin: 0 56px 22px;
+  max-width: 1100px;
+}
+.headline-tight {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.05;
+  letter-spacing: -0.018em;
+  color: var(--ink);
+  margin: 0 0 16px 0;
+}
+
+/* ---------- Slide 01 · Cover ---------- */
+.cover {
+  position: absolute;
+  top: 44px; left: 0; right: 0; bottom: 38px;
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 48px;
+  padding: 28px 56px 24px;
+}
+.cover-text { display: flex; flex-direction: column; justify-content: center; }
+.cover-text .kicker { margin: 0 0 8px 0; }
+.cover-text .standfirst { margin: 0 0 26px 0; max-width: 560px; }
+.byline {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding-top: 18px;
+  border-top: 1px solid var(--ink);
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+.byline b { color: var(--ember); font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; font-size: 10.5px; }
+.cover-image { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.cover-image img {
+  width: 100%; height: 460px; object-fit: cover;
+  border: 1px solid var(--ink);
+  filter: grayscale(0.05) contrast(1.02);
+}
+.cover-image figcaption {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 10.5px; letter-spacing: 0.12em; color: var(--ink-mute); text-transform: uppercase;
+}
+
+/* ---------- Slide 02 · Two-column ---------- */
+.column-rule { height: 1px; background: var(--ink); margin: 0 56px 22px; }
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  gap: 36px;
+  padding: 0 56px;
+  align-items: start;
+}
+.lead-col p {
+  font-size: 16.5px; line-height: 1.6; color: var(--ink-soft);
+  margin: 0 0 14px 0;
+}
+.dropcap span {
+  float: left;
+  font-family: "Fraunces", serif;
+  font-size: 78px;
+  line-height: 0.85;
+  padding: 4px 10px 0 0;
+  color: var(--ember);
+}
+.quad-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+.quad-col article {
+  border-top: 1px solid var(--ink);
+  padding: 14px 0 0;
+}
+.quad-col b {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11px; letter-spacing: 0.16em; color: var(--ember);
+  display: block; margin-bottom: 6px;
+}
+.quad-col strong {
+  display: block;
+  font-family: "Fraunces", serif;
+  font-size: 22px; font-weight: 500; color: var(--ink);
+  margin-bottom: 6px;
+}
+.quad-col p { margin: 0; font-size: 13.5px; line-height: 1.5; color: var(--ink-soft); }
+
+/* ---------- Slide 03 · Big numbers ---------- */
+.big-numbers {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  padding: 8px 56px 0;
+}
+.big-numbers article {
+  border-top: 2px solid var(--ink);
+  padding-top: 18px;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.big-numbers .big {
+  font-family: "Fraunces", serif;
+  font-size: 88px;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  color: var(--ember);
+  font-weight: 500;
+}
+.big-numbers .big small {
+  font-size: 28px; color: var(--ink); letter-spacing: 0;
+}
+.big-numbers strong {
+  font-family: "Fraunces", serif;
+  font-size: 22px; font-weight: 500;
+  color: var(--ink);
+}
+.big-numbers p {
+  margin: 0; font-size: 14px; line-height: 1.5; color: var(--ink-soft);
+}
+
+/* ---------- Slide 04 · Manifesto / pull quote ---------- */
+.manifesto { padding: 0 56px; }
+.pull-quote {
+  position: relative;
+  margin: 0 0 36px 0;
+  padding: 0 0 0 80px;
+  border-left: 0;
+}
+.pull-quote .open-q {
+  position: absolute;
+  left: 0; top: -20px;
+  font-family: "Fraunces", serif;
+  font-size: 160px;
+  line-height: 1;
+  color: var(--ember);
+}
+.pull-quote p {
+  font-family: "Fraunces", serif;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 1.18;
+  color: var(--ink);
+  margin: 0 0 14px 0;
+  max-width: 1000px;
+}
+.pull-quote .attrib {
+  display: block;
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11.5px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-mute);
+}
+.trio {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px;
+  padding-top: 18px; border-top: 1px solid var(--ink);
+}
+.trio > div { display: flex; flex-direction: column; gap: 6px; }
+.trio .num {
+  font-family: "Fraunces", serif;
+  font-size: 44px; font-weight: 500; color: var(--teal);
+  line-height: 1;
+}
+.trio strong { font-family: "Fraunces", serif; font-size: 22px; font-weight: 500; }
+.trio p { margin: 0; font-size: 14px; color: var(--ink-soft); }
+
+/* ---------- Slide 05 · Index table ---------- */
+.index-table {
+  margin: 0 56px;
+  border-top: 1px solid var(--ink);
+}
+.index-table .row {
+  display: grid;
+  grid-template-columns: 56px 220px 1fr 220px;
+  gap: 18px;
+  padding: 14px 0;
+  align-items: baseline;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.index-table .row.head {
+  border-bottom: 1px solid var(--ink);
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ember);
+}
+.index-table span:first-child {
+  font-family: "Fraunces", serif;
+  font-size: 22px; color: var(--teal);
+}
+.index-table strong {
+  font-family: "Fraunces", serif;
+  font-size: 19px; font-weight: 500; color: var(--ink);
+}
+.index-table p {
+  margin: 0; font-size: 14px; color: var(--ink-soft); line-height: 1.5;
+}
+.index-table em {
+  font-style: normal !important;
+  color: var(--ink-mute) !important;
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11.5px; letter-spacing: 0.06em;
+  text-align: right;
+}
+
+/* ---------- Slide 06 · Portfolio (team) ---------- */
+.portfolio {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+  padding: 0 56px;
+}
+.portfolio article {
+  display: flex; flex-direction: column; gap: 8px;
+}
+.portfolio figure { margin: 0; }
+.portfolio img {
+  width: 100%; height: 230px; object-fit: cover;
+  border: 1px solid var(--ink);
+  filter: grayscale(0.85) contrast(1.05);
+  transition: filter .3s ease;
+}
+.portfolio .role {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 10.5px; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--ember);
+}
+.portfolio strong {
+  font-family: "Fraunces", serif; font-weight: 500; font-size: 22px; color: var(--ink);
+}
+.portfolio p { margin: 0; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5; }
+
+/* ---------- Slide 07 · Gallery ---------- */
+.gallery {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px;
+  padding: 0 56px;
+}
+.gallery article { display: flex; flex-direction: column; gap: 8px; }
+.gallery figure {
+  margin: 0; height: 200px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  display: flex; align-items: center; justify-content: center;
+  padding: 12px;
+}
+.gallery img {
+  max-width: 100%; max-height: 100%; object-fit: contain;
+}
+.gallery strong {
+  font-family: "Fraunces", serif; font-weight: 500; font-size: 18px; color: var(--ink);
+}
+.gallery p { margin: 0; font-size: 13px; color: var(--ink-soft); line-height: 1.45; }
+
+/* ---------- Slide 08 · Long read ---------- */
+.long-read {
+  display: grid; grid-template-columns: 0.95fr 1.05fr; gap: 36px;
+  padding: 0 56px;
+  align-items: center;
+}
+.long-read-img { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.long-read-img img {
+  width: 100%; height: 440px; object-fit: cover;
+  border: 1px solid var(--ink);
+}
+.long-read-img figcaption {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 10.5px; letter-spacing: 0.12em; color: var(--ink-mute); text-transform: uppercase;
+}
+.long-read-text .kicker { margin: 0 0 8px 0; }
+.long-read-text p {
+  font-size: 16px; line-height: 1.55; color: var(--ink-soft);
+  margin: 12px 0 18px 0;
+}
+.metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; padding-top: 18px; border-top: 1px solid var(--ink); }
+.metrics > div { display: flex; flex-direction: column; gap: 4px; }
+.metrics b {
+  font-family: "Fraunces", serif; font-weight: 500;
+  font-size: 44px; color: var(--ember); line-height: 1;
+}
+.metrics b small { font-size: 22px; color: var(--ink); }
+.metrics span {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+/* ---------- Slide 09 · Back cover ---------- */
+.back-cover {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 14px;
+  padding: 8px 56px 0;
+}
+.back-cover > div {
+  border-top: 1px solid var(--ink);
+  padding-top: 14px;
+}
+.back-cover span {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 10.5px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ember);
+  display: block; margin-bottom: 6px;
+}
+.back-cover strong {
+  font-family: "Fraunces", serif; font-weight: 500; font-size: 22px; color: var(--ink);
+}
+.colophon {
+  position: absolute; left: 56px; right: 56px; bottom: 50px;
+  font-family: "Fraunces", serif; font-style: italic;
+  font-size: 14px; color: var(--ink-mute);
+  text-align: center;
+  border-top: 1px solid var(--rule-soft);
+  padding-top: 12px;
+}
