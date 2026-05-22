@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "slidev --host 127.0.0.1 slides.md",
+    "dev": "slidev slides.md --port 3030",
     "export": "slidev export slides.md --output dist/intespring_bertrandt_partner_profile_slidev.pdf"
   },
   "devDependencies": {

@@ -1,3 +1,19 @@
+## 2026-05-22 — Refresh Bertrandt Deck Visual Systems
+
+**Objective:** Rebuild the Bertrandt HTML and Slidev decks as English-only materials with distinct color systems, corrected image framing, regenerated PDFs, and updated style guidance.
+
+**Changes:**
+- `deliverables/bertrandt_partner_deck/index.html` — HTML deck sections: converted the brochure deck fully to English and added image-frame classes for contained proof assets and deliberate portrait crops.
+- `deliverables/bertrandt_partner_deck/styles.css` — HTML deck visual system: rebuilt the brochure palette around warm paper, copper, green, sage, and clay; fixed product image containment and tightened the team slide layout.
+- `deliverables/bertrandt_partner_deck/bertrandt_message.md` — portal message: converted the Bertrandt outreach draft to English and aligned it with the current InteSpring Control Systems positioning.
+- `deliverables/bertrandt_partner_deck/branding_style.md` — style guidance: updated the HTML deck direction to English-only brochure use, warm palette, and crop-safe proof imagery.
+- `deliverables/bertrandt_partner_deck/dist/intespring_bertrandt_partner_profile.pdf` — export: regenerated the HTML deck PDF after the visual refresh.
+- `deliverables/bertrandt_partner_slidev/style.css` — Slidev visual system: rebuilt the live-pitch deck around a distinct dark graphite, cream, lime, coral, and cyan palette with contained proof imagery and tighter typography.
+- `deliverables/bertrandt_partner_slidev/package.json` — dev script: updated the Slidev preview command to match the installed CLI flags.
+- `deliverables/bertrandt_partner_slidev/branding_style.md` — style guidance: updated the Slidev direction to emphasize the high-contrast live-pitch style and distinct color scheme.
+- `deliverables/bertrandt_partner_slidev/dist/intespring_bertrandt_partner_profile_slidev.pdf` — export: regenerated the Slidev deck PDF after the visual refresh.
+- `session_log.md` — change history: added this entry.
+
 ## 2026-05-22 — Narrow Offer Positioning Around PCB And Embedded Controls
 
 **Objective:** Apply the updated procurement-first positioning across profiles, decks, strategy, and supporting documents, then regenerate the Bertrandt pitch PDFs.

@@ -2,7 +2,7 @@
 
 ## Role
 
-The HTML deck should behave like a polished German partner-profile brochure that can be opened, skimmed, exported to PDF, and forwarded without a presenter in the room. It should feel concrete, credible, and procurement-friendly.
+The HTML deck should behave like a polished English partner-profile brochure that can be opened, skimmed, exported to PDF, and forwarded without a presenter in the room. It should feel concrete, credible, and procurement-friendly.
 
 ## Brand Frame
 
@@ -16,9 +16,9 @@ The HTML deck should behave like a polished German partner-profile brochure that
 
 - Format: 16:9 PDF-ready brochure slides.
 - Layout: structured grid, generous margins, concise section headers, scannable cards, and strong proof-point images.
-- Palette: warm technical paper base, teal for control/signal language, amber for sequence markers, dark steel for authority.
+- Palette: warm technical paper, deep green, copper, sage, clay, and dark ink. This should feel like an engineering brochure, not like the Slidev live deck.
 - Typography: Aptos/Segoe UI, large but not theatrical, with no negative letter spacing.
-- Image use: public InteSpring proof-point imagery should carry credibility; avoid decorative imagery and abstract AI visuals.
+- Image use: public InteSpring proof-point imagery should carry credibility; use contained product frames for tall technical images so proof points are not awkwardly cropped. Team portraits can crop square with deliberate face-centered positioning.
 
 ## Formatting Strength
 
@@ -39,7 +39,7 @@ HTML is strongest as a durable document, so it should include enough detail for 
 - Avoid hype-driven or black-box automation language.
 - Use deliverable nouns: diagnostic, analysis sprint, PCB/BOM review, validation package, production handover, supplier evidence.
 - Mention RTOS and digital twins as practical engineering knowledge, not as abstract buzzwords.
-- Keep German text plain and procurement-friendly; no startup or AI hype framing.
+- Keep English text plain and procurement-friendly; no startup or AI hype framing.
 - Put sectors after the buyable offer; use medical, robotics, industrial, wearable, UAV, and defense-adjacent as context or proof points.
 - Use technical documentation for regulated or certification-sensitive development.
 

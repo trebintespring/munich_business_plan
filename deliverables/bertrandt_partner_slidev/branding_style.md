@@ -16,9 +16,9 @@ The Slidev deck should feel like a sharper English live pitch or screen-share de
 
 - Format: Slidev 16:9 live-presentation canvas.
 - Layout: statement slides, signal grids, horizontal strips, and image walls.
-- Palette: same InteSpring-compatible teal, steel, warm paper, and amber system as the HTML deck, but with bolder title scale and more direct contrast.
+- Palette: high-contrast graphite/ink background with cream panels, lime highlights, coral sequence markers, and cyan accents. It should feel clearly different from the warm HTML brochure.
 - Typography: larger than the brochure, with short sentence fragments that can be read from a call or projector.
-- Image use: hero image and proof wall should create memory anchors; avoid dense explanatory paragraphs on image slides.
+- Image use: hero image and proof wall should create memory anchors; use contained product frames for tall technical assets, and square, face-centered portrait crops for people.
 
 ## Formatting Strength
 

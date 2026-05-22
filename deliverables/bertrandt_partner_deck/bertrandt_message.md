@@ -1,23 +1,23 @@
 # Bertrandt Portal Message Draft
 
-Sehr geehrtes Bertrandt Partner-Team,
+Dear Bertrandt Partner Team,
 
-anbei erhalten Sie unser Kurzprofil fuer eine kurzfristige Projektbesetzung ueber Bertrandt Technology Consulting. InteSpring Control Systems unterstuetzt DACH-Hardware-Teams bei Design, Prototyping, Validierung und Dokumentation von PCB-/Produktelektronik und Embedded-Control-Systemen fuer komplexe mechatronische Produkte. Unsere oeffentlichen InteSpring-Referenzen liegen in Motion Control, Medizintechnik, Robotik, Industrie, Wearables, UAV- und defense-adjacent Systemen.
+Please find attached our short profile for short-notice project staffing through Bertrandt Technology Consulting. InteSpring Control Systems helps DACH hardware teams design, prototype, validate, and document PCB/product electronics and embedded control systems for complex mechatronic products. Our public InteSpring references cover motion control, medical technology, robotics, industrial systems, wearables, UAV, and defense-adjacent systems.
 
-Wir koennen Bertrandt-Kunden kurzfristig in folgenden Bereichen unterstuetzen:
+We can support Bertrandt clients in the following areas:
 
-- Systemarchitektur, Schnittstellen, Control Logic, technische Dokumentation fuer regulierte oder zertifizierungssensitive Entwicklung und supplier-ready Entwicklungsunterlagen.
-- PCB-/Produktelektronik, Sensorik, Microcontroller, Wearable- und Medical-Hardware, inklusive Altium Designer, KiCad, BOM-Risikoanalyse, Komponenten-Lifecycle-Scans und DFM/DFT-Handover.
-- Embedded-Control-Systeme, RTOS-nahe Interfaces, MATLAB/Simulink-Validierung, Digital-Twin-/Simulationskonzepte, LabVIEW/NI-Testautomatisierung und HIL/HILS.
-- RF-/UAV-Control als Proof-Point und Spezialfall, inklusive PX4/Pixhawk, Messaufbau, Datenanalyse und prototypennaher Validierung.
-- Engineer-supervised automation fuer schnellere Dokumentation, Requirements-to-Test-Traceability, Validation Package Review, PCB Review, Komponenten- und BOM-Risiko-Checks, Supplier Evidence und Design-History-Pakete.
-- EU-only Manufacturing- und Sourcing-Partner fuer Prototypen, Serie, Assembly und Qualitaetskontrolle; breitere und kostenguenstigere Beschaffungswege bei passendem Risiko-/Budgetprofil.
+- System architecture, interfaces, control logic, technical documentation for regulated or certification-sensitive development, and supplier-ready engineering documents.
+- PCB/product electronics, sensors, microcontrollers, wearable and medical hardware, including Altium Designer, KiCad, BOM risk review, component lifecycle checks, and DFM/DFT handover.
+- Embedded control systems, RTOS-aware interfaces, MATLAB/Simulink validation, digital-twin and simulation concepts, LabVIEW/NI test automation, and HIL/HILS.
+- RF/UAV control as a proof-point and specialist case, including PX4/Pixhawk, measurement setup, data analysis, and prototype-oriented validation.
+- Engineer-supervised automation for faster documentation, requirements-to-test traceability, validation package review, PCB review, component and BOM risk checks, supplier evidence, and design-history packages.
+- EU-only manufacturing and sourcing partners for prototypes, series, assembly, and quality control; broader lower-cost sourcing paths where the project risk and budget profile allows.
 
-Moegliche Einstiege sind ein 4-Stunden Technical Diagnostic, ein 40-Stunden Analysis Sprint oder ein projektbezogener Scope Review fuer PCB/BOM-, Embedded-Control-, Prototype/Test-Bench-, Validation- oder Production-Handover-Pakete.
+Possible entry points include a 4-hour technical diagnostic, a 40-hour analysis sprint, or a project-specific scope review for PCB/BOM, embedded-control, prototype/test-bench, validation, or production-handover packages.
 
-Trebsijg van de Wijdeven ist ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Osama Shah ist ebenfalls ab 21.05.2026 mit bis zu 40 h/Woche verfuegbar. Coen Greidanus ist als Teil des Teams mit bis zu 20 h/Woche verfuegbar. Remote-Arbeit ist bevorzugt; hybride Einsaetze in Muenchen/Bayern sind nach Abstimmung moeglich.
+Trebsijg van de Wijdeven is available from 21 May 2026 for up to 40 h/week. Osama Shah is also available from 21 May 2026 for up to 40 h/week. Coen Greidanus is available as part of the team for up to 20 h/week. Remote work is preferred; hybrid work in Munich/Bavaria is possible by arrangement.
 
-Gerne stellen wir uns in einem kurzen Termin vor und klaeren, fuer welche Bertrandt-Projekte unser Profil aktuell am besten passt.
+We would be glad to introduce the team in a short call and discuss which current Bertrandt projects are the strongest fit for this profile.
 
-Mit freundlichen Gruessen
+Kind regards,
 InteSpring Control Systems
