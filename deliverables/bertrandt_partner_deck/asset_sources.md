@@ -1,6 +1,6 @@
 # Asset Sources
 
-All images are public assets downloaded from the InteSpring website for use in the Coilworks GmbH Bertrandt partner profile deck.
+All images are public assets downloaded from the InteSpring website for use in the InteSpring Control Systems Bertrandt partner profile deck.
 
 - `assets/centaur-exoskeleton.png` — `https://intespring.com/wp-content/uploads/2026/04/centaur_side-e1777292383781-1291x1536.png`
 - `assets/operating-table.png` — `https://intespring.com/wp-content/uploads/2026/04/op_table-e1777290508111-1303x1536.png`

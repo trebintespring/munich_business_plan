@@ -2,11 +2,11 @@
 
 ## Recommended Headline
 
-Freelance Mechatronic R&D Engineer for Medical Devices, Exoskeletons, Robotics, Prototyping, and Validation
+Team Mechatronic R&D Engineer for Medical Devices, Exoskeletons, Robotics, Prototyping, and Validation
 
 ## Short Bio
 
-Coen Greidanus supports integrated mechatronic research and development where mechanical systems, electronics, controls, prototyping, and validation need to stay aligned. His profile shows freelance mechatronic engineering experience across medical OCT device control/interface development, semi-passive military exoskeleton development, IoT water-dispenser hardware, autonomous sorting robots, recirculating shower systems, and a military stabilized pan-tilt observation platform internship.
+Coen Greidanus supports integrated mechatronic research and development where mechanical systems, electronics, controls, prototyping, and validation need to stay aligned. His profile shows practical mechatronic engineering experience across medical OCT device control/interface development, semi-passive military exoskeleton development, IoT water-dispenser hardware, autonomous sorting robots, recirculating shower systems, and a military stabilized pan-tilt observation platform internship.
 
 For Bertrandt-facing work, Coen can strengthen short expert interventions and project delivery phases that need practical mechatronics support alongside system architecture, electronics, firmware, and test automation. InteSpring publicly lists Coen as a mechatronics specialist, and his previous InteSpring work included Exobuddy, a semi-passive load-carrying exoskeleton, with responsibility for mechatronic and hydraulic system design.
 
@@ -23,7 +23,7 @@ For Bertrandt-facing work, Coen can strengthen short expert interventions and pr
 
 ## Selected Experience
 
-- Greidanus Engineering, Mechatronic Engineer: freelance mechatronic R&D since July 2021.
+- Greidanus Engineering, Mechatronic Engineer: mechatronic R&D since July 2021.
 - Acoustic Insight: interface development and control support for a medical diagnostic Optical Coherence Tomography device.
 - InteSpring: development of a semi-passive military exoskeleton.
 - Aquablu: development of an IoT filtered cooler/carbonator water dispenser with flavor additions.

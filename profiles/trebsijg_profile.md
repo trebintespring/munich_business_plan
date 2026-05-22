@@ -2,18 +2,18 @@
 
 ## Recommended Headline
 
-CTO / System Architect for Human-Interactive Hardware, Medical/Wearable PCB Design, AI-Assisted Compliance Docs, and Rapid Prototyping
+CTO / System Architect for Human-Interactive Hardware, Medical/Wearable PCB Design, Engineer-Supervised Documentation Automation, and Rapid Prototyping
 
 ## Short Bio
 
 I help hardware and medical-device teams turn complex ideas into clear system architecture, documented design decisions, PCB/product electronics implementation, prototypes, and supplier-ready development plans. My background combines mechanical engineering, biorobotics, human-interactive systems, sensor and microcontroller PCB design, rapid prototyping, technical documentation, and CTO-level project coordination.
 
-At InteSpring I work on biomechanical and microhydraulic systems, exoskeleton development, motion-control products, medical and defense applications, and coordination with technical partners. I am especially strong where engineering work needs to become clear documentation: system architecture, design rationale, requirements, verification planning, compliance support, and AI-assisted document workflows.
+At InteSpring I work on biomechanical and microhydraulic systems, exoskeleton development, motion-control products, medical and defense applications, and coordination with technical partners. I am especially strong where engineering work needs to become clear documentation: system architecture, design rationale, requirements, verification planning, compliance support, and engineer-supervised documentation automation.
 
 ## Core Offers
 
 - Medical-device documentation sprint.
-- AI-assisted technical and compliance documentation cleanup.
+- Engineer-supervised technical and compliance documentation cleanup.
 - System architecture and design documentation.
 - PCB design and product electronics integration for sensors, microcontrollers, wearable systems, and medical hardware.
 - Human-interactive product feasibility and design review.

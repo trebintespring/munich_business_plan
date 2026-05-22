@@ -1,3 +1,28 @@
+## 2026-05-22 — Reframe Bertrandt Pitch As InteSpring Control Systems
+
+**Objective:** Update the company profile and Bertrandt pitch materials around the InteSpring Control Systems story, clearer deliverables, team framing, and practical engineer-supervised automation.
+
+**Changes:**
+- `profiles/company_profile.md` — company profile sections: reframed public offer as InteSpring Control Systems, expanded programs/tools, deliverables, RTOS/digital-twin capability, and engineer-supervised automation language.
+- `profiles/coen_profile.md` — Coen profile sections: removed freelancer framing from the headline, bio, and selected experience.
+- `profiles/trebsijg_profile.md` — Trebsijg profile sections: replaced AI-assisted documentation wording with engineer-supervised documentation automation.
+- `strategy/00_fastest_path.md` — positioning sections: softened AI language and added engineer-supervised documentation automation framing.
+- `deliverables/bertrandt_partner_deck/index.html` — HTML deck sections: shortened and rebuilt the German pitch around InteSpring Control Systems, team delivery, tool stack, deliverables, proof points, RTOS/digital-twin capability, and engineer-supervised automation.
+- `deliverables/bertrandt_partner_deck/styles.css` — HTML deck styling: added layouts for tool stack, team, proof grid, and deliverable slides with updated InteSpring footer branding.
+- `deliverables/bertrandt_partner_deck/bertrandt_message.md` — portal message: aligned Bertrandt outreach copy with InteSpring naming, deliverables, RTOS/digital-twin capability, and engineer-supervised automation.
+- `deliverables/bertrandt_partner_deck/asset_sources.md` — asset provenance: updated deck naming from Coilworks to InteSpring Control Systems.
+- `deliverables/bertrandt_partner_deck/branding_style.md` — created: added HTML/PDF brochure branding and copy rules.
+- `deliverables/bertrandt_partner_deck/dist/intespring_bertrandt_partner_profile.pdf` — export: generated the updated InteSpring-named HTML deck PDF.
+- `deliverables/bertrandt_partner_deck/dist/coilworks_bertrandt_partner_profile.pdf` — export: removed the stale Coilworks-named PDF.
+- `deliverables/bertrandt_partner_slidev/slides.md` — Slidev deck sections: shortened and rebuilt the English live-pitch deck around InteSpring Control Systems, deliverables, engineering stack, team, proof points, RTOS/digital twins, and engineer-supervised automation.
+- `deliverables/bertrandt_partner_slidev/style.css` — Slidev styling: rebuilt the presentation visual system for statement slides, grids, proof walls, and live-pitch pacing.
+- `deliverables/bertrandt_partner_slidev/package.json` — package metadata: renamed package and export output to InteSpring.
+- `deliverables/bertrandt_partner_slidev/package-lock.json` — package metadata: aligned lockfile package name with InteSpring rename.
+- `deliverables/bertrandt_partner_slidev/README.md` — deck documentation: updated description and exported PDF filename.
+- `deliverables/bertrandt_partner_slidev/branding_style.md` — created: added Slidev-specific live-pitch branding and copy rules.
+- `deliverables/bertrandt_partner_slidev/dist/intespring_bertrandt_partner_profile_slidev.pdf` — export: generated the updated InteSpring-named Slidev deck PDF.
+- `deliverables/bertrandt_partner_slidev/dist/coilworks_bertrandt_partner_profile_slidev.pdf` — export: removed the stale Coilworks-named PDF.
+
 ## 2026-05-21 — Clean Up Bertrandt Deck Visuals
 
 **Objective:** Remove the generated prompt images from the repository and make the HTML deck slide background treatment consistent.

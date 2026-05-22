@@ -1,11 +1,11 @@
 {
-  "name": "coilworks-bertrandt-partner-slidev",
+  "name": "intespring-bertrandt-partner-slidev",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "slidev --host 127.0.0.1 slides.md",
-    "export": "slidev export slides.md --output dist/coilworks_bertrandt_partner_profile_slidev.pdf"
+    "export": "slidev export slides.md --output dist/intespring_bertrandt_partner_profile_slidev.pdf"
   },
   "devDependencies": {
     "@slidev/cli": "^0.49.29",

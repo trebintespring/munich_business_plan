@@ -1,13 +1,13 @@
 # Bertrandt Partner Slidev Deck
 
-English Slidev comparison deck for the Bertrandt Technology Consulting partner application.
+English Slidev pitch deck for the Bertrandt Technology Consulting partner application.
 
 ## Files
 
 - `slides.md` - Slidev source deck.
 - `style.css` - custom visual styling.
 - `public/assets/` - local public images used by Slidev.
-- `dist/coilworks_bertrandt_partner_profile_slidev.pdf` - exported PDF when generated.
+- `dist/intespring_bertrandt_partner_profile_slidev.pdf` - exported PDF when generated.
 
 ## Preview
 

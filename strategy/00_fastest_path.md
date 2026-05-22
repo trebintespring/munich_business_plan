@@ -4,7 +4,7 @@
 
 Do not lead as generic freelancers. Lead as a three-person specialist engineering cell contracting through Coilworks GmbH and backed by InteSpring credibility:
 
-**Human-interactive hardware, medical-device documentation, motion control, RF/drone systems, PCB/power electronics, mechatronic R&D, production-partner coordination, and AI-accelerated engineering documentation.**
+**Human-interactive hardware, medical-device documentation, motion control, RF/drone systems, PCB/power electronics, mechatronic R&D, production-partner coordination, and engineer-supervised documentation automation.**
 
 That story is stronger than competing on commodity software marketplaces.
 
@@ -22,7 +22,7 @@ That story is stronger than competing on commodity software marketplaces.
 
 1. **Medical Device Documentation Sprint**
    - Buyer: medical-device startups, SMEs, engineering managers, quality/regulatory teams.
-   - Deliverables: design history file support, architecture docs, requirements traceability, verification plan, risk-control documentation, AI-assisted document cleanup.
+   - Deliverables: design history file support, architecture docs, requirements traceability, verification plan, risk-control documentation, engineer-supervised document cleanup.
    - Rate: EUR 140-180/hour or fixed sprint.
 
 2. **System Architecture And Design Documentation Sprint**
@@ -74,7 +74,7 @@ Day 3-5:
 
 Day 6-10:
 - Create 2 one-page capability PDFs: one for Trebsijg, one for Osama.
-- Publish 2 LinkedIn posts showing domain insight: medical documentation with AI, and UAV/RF/test automation lessons.
+- Publish 2 LinkedIn posts showing domain insight: faster medical documentation under engineer supervision, and UAV/RF/test automation lessons.
 - Follow up on every platform profile that has no response.
 
 Day 11-14:

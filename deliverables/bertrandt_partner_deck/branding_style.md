@@ -1,0 +1,48 @@
+# HTML Deck Branding And Style Direction
+
+## Role
+
+The HTML deck should behave like a polished German partner-profile brochure that can be opened, skimmed, exported to PDF, and forwarded without a presenter in the room. It should feel concrete, credible, and procurement-friendly.
+
+## Brand Frame
+
+- Public-facing name: InteSpring Control Systems.
+- Positioning: compact specialist team for control-heavy hardware programs.
+- Tone: precise, calm, technical, and low-hype.
+- Core proof: medical control systems, wearable robotics, RF/UAV validation, RTOS-aware embedded interfaces, digital-twin/simulation concepts, PCB/product electronics, mechatronics, and prototype-to-series execution.
+- Automation language: engineer-supervised automation for faster documentation, validation, PCB review, and component-risk checks.
+
+## Visual Style
+
+- Format: 16:9 PDF-ready brochure slides.
+- Layout: structured grid, generous margins, concise section headers, scannable cards, and strong proof-point images.
+- Palette: warm technical paper base, teal for control/signal language, amber for sequence markers, dark steel for authority.
+- Typography: Aptos/Segoe UI, large but not theatrical, with no negative letter spacing.
+- Image use: public InteSpring proof-point imagery should carry credibility; avoid decorative imagery and abstract AI visuals.
+
+## Formatting Strength
+
+HTML is strongest as a durable document, so it should include enough detail for standalone reading:
+
+- A clear hero with capacity and availability.
+- A compact relevance slide for Bertrandt.
+- A tools/programs/automation slide with concrete software and review workflows.
+- Deliverable packages with hour bands and outputs.
+- A team slide that presents Trebsijg, Osama, and Coen as one delivery cell.
+- A proof-point grid with images and short evidence summaries.
+- A final onboarding slide without overemphasizing contracting-brand complexity.
+
+## Copy Rules
+
+- Do not call Coen a freelancer; describe him as part of the team or delivery cell.
+- Lead public pitch copy with InteSpring Control Systems.
+- Avoid hype-driven or black-box automation language.
+- Use deliverable nouns: diagnostic, analysis sprint, PCB/BOM review, validation package, production handover, supplier evidence.
+- Mention RTOS and digital twins as practical engineering knowledge, not as abstract buzzwords.
+- Keep German text plain and procurement-friendly; no startup or AI hype framing.
+
+## Future Refinement Ideas
+
+- Add one optional appendix slide for detailed software/programs if Bertrandt asks for a skill matrix.
+- Create a print-optimized one-page team sheet from the same visual language.
+- Add a QR/contact footer only once contact details are finalized for public sharing.
